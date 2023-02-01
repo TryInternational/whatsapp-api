@@ -20,16 +20,6 @@
             "pre-commit": "lint-staged"
         }
     },
-    "lint-staged": {
-        "*.{js,jsx}": [
-            "prettier --write",
-            "git add"
-        ],
-        "*.{html,css,less,ejs}": [
-            "prettier --write",
-            "git add"
-        ]
-    },
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
@@ -39,6 +29,7 @@
         "ejs": "^3.1.7",
         "express": "^4.18.2",
         "express-exception-handler": "^1.3.23",
+        "i": "^0.3.7",
         "link-preview-js": "^2.1.13",
         "mongodb": "^4.12.1",
         "mongoose": "^6.7.4",
