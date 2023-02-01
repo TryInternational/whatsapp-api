@@ -1,4 +1,4 @@
-We're really glad you're reading this, because we need developers to help this project. 👏
+<!-- We're really glad you're reading this, because we need developers to help this project. 👏
 
 ## If you would like to contribute, here are a few starters:
 
@@ -22,4 +22,4 @@ These steps will guide you through contributing to this project:
 
 -   Make changes
 
--   Send a [GitHub Pull Request](https://github.com/salman0ansari/whatsapp-api-nodejs/compare?expand=1) with a clear list of what you've done (read more [about pull requests](https://help.github.com/articles/about-pull-requests/)). Make sure all of your commits are atomic (one feature per commit).
+-   Send a [GitHub Pull Request](https://github.com/salman0ansari/whatsapp-api-nodejs/compare?expand=1) with a clear list of what you've done (read more [about pull requests](https://help.github.com/articles/about-pull-requests/)). Make sure all of your commits are atomic (one feature per commit). -->

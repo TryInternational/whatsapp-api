@@ -1,4 +1,4 @@
-<h1 align="center"> whatsapp-api-nodejs Multi Device</h1>
+<!-- <h1 align="center"> whatsapp-api-nodejs Multi Device</h1>
 <div align="center">
 <p>
 <a href="#"><img title="skynet" src="https://img.shields.io/badge/whatsapp api nodejs Multi Device-black?style=for-the-badge" alt=""></a>
@@ -72,7 +72,7 @@ TOKEN=RANDOM_STRING_HERE
 
 ## Generate basic instance using random key.
 
-To generate an Instance Key  
+To generate an Instance Key
 Using the route:
 
 ```bash
@@ -92,7 +92,7 @@ Response:
 ## WEBHOOK_ALLOWED_EVENTS
 You can set which events you want to send to webhook by setting the environment variable `WEBHOOK_ALLOWED_EVENTS`
 
-Set a comma seperated list of events you want to get notified about. 
+Set a comma seperated list of events you want to get notified about.
 
 Default value is `all` which will forward all events.
 
@@ -112,7 +112,7 @@ You can also use the Baileys event format example: `messages.upsert`
 
 ## Generate custom instance with custom key and custom webhook.
 
-To generate a Custom Instance  
+To generate a Custom Instance
 Using the route:
 
 ```bash
@@ -173,4 +173,4 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
 -   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
 -   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 -   This is an independent and unofficial software Use at your own risk.
--   Do not spam people with this.
+-   Do not spam people with this. -->
